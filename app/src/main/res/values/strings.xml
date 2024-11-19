@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Note App</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_activity_add_note">AddNoteActivity</string>
+    <string name="title_activity_edit_note">EditNoteActivity</string>
+</resources>
